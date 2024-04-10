@@ -2,11 +2,15 @@
 
 Figma Designs
 
-1. UI DASHBOARD
+Redesign Challenge 
+
+https://www.figma.com/file/KSYLTQmZyxLBXaQ7inFaVj/UX-Design---Qualification-Project-(Final)?type=design&node-id=0%3A1&mode=design&t=sRYnYfGwM1Kyey0G-1
+
+UI DASHBOARD
 
 https://www.figma.com/proto/p6Z5c7GOTsZ7wiTgsxnl1N/Dashboard-Design?type=design&node-id=202-2&t=apfDvlAYEx0A6gHM-1&scaling=min-zoom&page-id=0%3A1&mode=design
 
-2. BUSINESS CARD
+BUSINESS CARD
 
 https://www.figma.com/file/0srPDjdrsN06txFD3VNsE6/Business-Card?type=design&node-id=0-1&mode=design&t=8uKC4ZuxaQTWh3rQ-0
 
