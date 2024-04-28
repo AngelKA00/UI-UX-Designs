@@ -2,6 +2,18 @@
 
 Figma Designs
 
+Redesign Challenge
+
+https://www.figma.com/proto/rtkjyxp4NDz2OXYGsizuGq/Kanmani-Angel_UIAssignment_CAmonk?node-id=1-2&mode=design&t=RscjeYCQluNOwg2W-1
+
+Credit Card Holder UI Dashboard Design
+
+https://www.figma.com/file/6crkeRWuLVYTwSQqLrv8cT/Busibud-UI%2FUX-Task---1?type=design&node-id=0%3A1&mode=design&t=HGGgIfT0U0YbMB2S-1
+
+Financial Analysis UI Dashboard Design
+
+https://www.figma.com/file/8stwQeBDKCZrNU0MzRreo9/FileSure---UI-Dashboard-Financial-Data?type=design&node-id=0%3A1&mode=design&t=kXsJqPNwbHpFzqih-1
+
 Redesign Challenge 
 
 https://www.figma.com/file/KSYLTQmZyxLBXaQ7inFaVj/UX-Design---Qualification-Project-(Final)?type=design&node-id=0%3A1&mode=design&t=sRYnYfGwM1Kyey0G-1
