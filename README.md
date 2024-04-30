@@ -2,6 +2,10 @@
 
 Figma Designs
 
+Job Portal Website
+
+https://www.figma.com/design/YZG4n8IEsq7dFX1yEfSqH7/Japan-Work-Opportunity?node-id=0%3A1&t=i8Vp4z3qNLrmJJJt-1
+
 Redesign Challenge
 
 https://www.figma.com/proto/rtkjyxp4NDz2OXYGsizuGq/Kanmani-Angel_UIAssignment_CAmonk?node-id=1-2&mode=design&t=RscjeYCQluNOwg2W-1
