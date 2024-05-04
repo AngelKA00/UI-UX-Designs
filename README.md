@@ -8,6 +8,11 @@ Prototype link - [https://www.figma.com/proto/hEleKdOdMZ34ILn5EIiVyq/Excelerate-
 
 Figma link - https://www.figma.com/file/hEleKdOdMZ34ILn5EIiVyq/Excelerate-Redesign-Challenge?type=design&node-id=0%3A1&mode=design&t=x5E9xO69SIQ1zMdG-1
 
+# Guardian Track App
+Done this project as a part of UX Design Fundamentals Course from California Institute of Arts through Coursera
+
+https://www.figma.com/file/364L190dqqeyuTzPpIA432/Guardian-Track-App?type=design&node-id=0%3A1&mode=design&t=GY6h0PT6b8IpXnMw-1
+
 # Job Portal Website
 
 https://www.figma.com/design/YZG4n8IEsq7dFX1yEfSqH7/Japan-Work-Opportunity?node-id=0%3A1&t=i8Vp4z3qNLrmJJJt-1
