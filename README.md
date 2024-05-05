@@ -8,6 +8,11 @@ Prototype link - [https://www.figma.com/proto/hEleKdOdMZ34ILn5EIiVyq/Excelerate-
 
 Figma link - https://www.figma.com/file/hEleKdOdMZ34ILn5EIiVyq/Excelerate-Redesign-Challenge?type=design&node-id=0%3A1&mode=design&t=x5E9xO69SIQ1zMdG-1
 
+# Electric Vehicle App
+Done this project as a part of Job Simulation from bp Digital Design & UX Job Simulation on Forage
+
+https://www.figma.com/file/1MYrUR2GZtDJuXJqrIB88e/Electric-Vehicle-App?type=design&node-id=0%3A1&mode=design&t=G8NOWa377TTOnf3i-1
+
 # Finative Bank App
 Done this project as a part of Introduction to UI Design Course from University of Minnesota through Coursera
 
