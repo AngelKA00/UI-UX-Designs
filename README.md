@@ -8,6 +8,11 @@ Prototype link - [https://www.figma.com/proto/hEleKdOdMZ34ILn5EIiVyq/Excelerate-
 
 Figma link - https://www.figma.com/file/hEleKdOdMZ34ILn5EIiVyq/Excelerate-Redesign-Challenge?type=design&node-id=0%3A1&mode=design&t=x5E9xO69SIQ1zMdG-1
 
+# Music Player lyrics feature
+Done this project as a part of Job Simulation from Product Design from Accenture North America on Forage
+
+https://www.figma.com/file/xLYHbXbPzVCk60Vqsuebow/Music-App-Start?type=design&node-id=104%3A703&mode=design&t=mhudgDQfVSJfuOSc-1
+
 # Electric Vehicle App
 Done this project as a part of Job Simulation from bp Digital Design & UX Job Simulation on Forage
 
