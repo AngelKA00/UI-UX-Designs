@@ -54,7 +54,7 @@ https://www.figma.com/proto/p6Z5c7GOTsZ7wiTgsxnl1N/Dashboard-Design?type=design&
 
 # BUSINESS CARD
 
-https://www.figma.com/file/0srPDjdrsN06txFD3VNsE6/Business-Card?type=design&node-id=0-1&mode=design&t=8uKC4ZuxaQTWh3rQ-0
+https://www.figma.com/design/po0FO8z1N3sZbMlFXGu5Cz/Business-Card?node-id=3-2&t=WHSRvZmjeX3CGdZp-0
 
 # I have done My Own User Persona as a part of Practicing UI Design
 
