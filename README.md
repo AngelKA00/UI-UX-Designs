@@ -2,6 +2,10 @@
 
 Figma Designs
 
+# Habot Connect Task - Online Tutoring Website
+
+Figma link (Sitemap, lo-fi, hi-fi designs) - https://www.figma.com/design/qCVCUG7yLBq7lnibpE2PTw/Habot-Connect-Task?node-id=6-2&t=lZqp9dwyVLIiLR7o-1
+
 # Redesign Challenge - Jio Mart App
 
 Prototype link - [https://www.figma.com/proto/hEleKdOdMZ34ILn5EIiVyq/Excelerate-Redesign-Challenge?type=design&node-id=1-4&t=g01o8KHs8tL70yy6-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A4&show-proto-sidebar=1&mode=design](https://www.figma.com/proto/hEleKdOdMZ34ILn5EIiVyq/Excelerate-Redesign-Challenge?type=design&node-id=30-2&t=1BRlaXPOKZ5LFaLN-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=30%3A2&show-proto-sidebar=1&mode=design)
