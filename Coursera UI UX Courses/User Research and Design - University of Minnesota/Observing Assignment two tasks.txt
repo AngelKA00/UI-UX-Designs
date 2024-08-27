@@ -1,0 +1,74 @@
+Observing Everyday Interactions: Point-of-Sale Checkout System
+
+Introduction
+
+This assignment involves observing a 40-year-old male using a point-of-sale (POS) checkout system at a grocery store and analyzing the usability of the interaction. The purpose is to identify strengths and areas for improvement in the checkout process.
+
+Participant
+
+The subject is a 40-year-old male, average height and build, without specific accessibility needs. He wears reading glasses. The subject appeared familiar with technology but showed signs of impatience during the checkout process.
+
+Setting & Technology Used
+
+The observation took place at a busy grocery store in a suburban area. The POS system consisted of a touchscreen display, a barcode scanner, a cash drawer, and a card reader. The subject interacted primarily with the touchscreen to select payment options and confirm purchases.
+
+Method
+
+Permission was obtained from the subject to observe his checkout experience. The observation occurred during a weekend afternoon when the store was crowded. Notes were taken discreetly on the subject's actions and any challenges encountered during the process.
+
+Observed Interaction
+
+The subject approached the checkout counter with a basket of groceries. He placed items on the counter for scanning by the cashier. As the cashier scanned each item, the subject monitored the display to confirm prices and ensure accuracy.
+
+When prompted by the cashier, the subject inserted his loyalty card into the card reader. He then used the touchscreen to select payment method, choosing to pay with a debit card. The subject inserted his card into the chip reader and waited for confirmation.
+
+During the payment process, the subject appeared frustrated when the card reader displayed an error message. He was instructed by the cashier to remove and reinsert the card, which resolved the issue. The subject completed the transaction and collected his receipt.
+
+Analysis
+
+The POS checkout system demonstrated efficiency in processing transactions, but there were notable areas for improvement. The touchscreen interface, although responsive, lacked intuitive navigation cues, leading to some confusion during payment selection. The error messages on the card reader could be more informative to guide users in troubleshooting common issues.
+
+Furthermore, the checkout process could benefit from enhanced user guidance, especially for customers less familiar with technology. Simplifying the interface and providing clearer prompts could reduce user frustration and improve overall satisfaction.
+
+Conclusion
+
+The POS checkout system at the grocery store effectively facilitated transactions but revealed opportunities for enhancing usability. Addressing interface clarity, error handling, and user guidance could streamline the checkout process and enhance the overall customer experience.
+
+
+****************************************************************************************************************
+
+Observing Everyday Interactions: Choosing a Mobile Phone Plan
+
+Introduction
+
+In this assignment, I observed a 32-year-old female navigating the process of selecting a mobile phone plan at a retail store. I documented her interactions and provide an analysis of the observed usability, highlighting opportunities for improvement in this consumer experience.
+
+Participant
+
+The subject is a 32-year-old female professional, of average height and build, with no specific accessibility requirements. She was wearing prescription glasses during the observation. The subject appeared comfortable and familiar with using mobile devices.
+
+Setting & Technology Used
+
+The subject visited a major carrier's retail store located in a shopping mall in downtown Chicago, IL. The store featured various mobile phones displayed along with promotional materials for different plans. The interaction involved the use of touchscreen displays showing plan details, device specifications, and pricing. The store also had physical brochures and customer service representatives available for assistance.
+
+Method
+
+Permission was obtained from the subject to observe her during the mobile phone plan selection process. The observation took place on a weekday afternoon. I maintained a discreet distance during the interaction, taking notes on the subject's behavior, gestures, and interactions with store staff.
+
+Observed Interaction
+
+Upon entering the store, the subject approached a display showcasing the latest smartphones. She spent several minutes comparing different models, picking up a few to examine closely. A store representative approached her and guided her to a display showing various plan options.
+
+The subject engaged with the touchscreen to explore different plans, scrolling through details about data allowances, talk/text inclusions, and pricing. She paused frequently to read details and compare features between plans. The subject then interacted with the representative, asking specific questions about international calling options and device financing.
+
+After considering multiple options, the subject selected a plan that suited her needs and budget. She proceeded to discuss device upgrade possibilities before finalizing her choice.
+
+Analysis
+
+The mobile phone plan selection process appeared straightforward but could benefit from enhancements for a smoother user experience. One notable strength was the availability of both digital and personal assistance throughout the selection process. The touchscreen interface provided comprehensive information, but the subject relied heavily on interaction with the representative for clarification and personalized advice.
+
+However, there were some areas for improvement. The touchscreen displays could be more intuitive, allowing easier comparison between plans and clearer differentiation of features. Providing interactive tools to estimate data usage based on typical activities could aid users in making informed decisions. Additionally, integrating more personalized recommendations based on usage patterns could enhance the overall usability of the selection process.
+
+Conclusion
+
+Overall, the experience of selecting a mobile phone plan at the retail store was satisfactory, with opportunities identified for optimizing the usability of the process. Enhancing digital tools and integrating more personalized assistance could further improve the consumer experience in selecting and understanding mobile phone plans.

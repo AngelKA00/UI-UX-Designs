@@ -1,0 +1,67 @@
+Task: Completing a Language Lesson on Duolingo
+
+Description: As a language learner using the Duolingo app, the task involves successfully completing a language lesson to enhance language proficiency. Duolingo employs gamified learning techniques, making it an engaging and interactive platform for language acquisition.
+
+Prerequisites:
+
+Download and install the Duolingo app on your mobile device.
+Create a Duolingo account or log in if you already have one.
+Steps:
+
+Open Duolingo App:
+
+Unlock your mobile device and locate the Duolingo app.
+Tap on the app icon to launch Duolingo.
+
+Select Language and Course:
+
+On the home screen, choose the target language you want to learn.
+Select a specific course or lesson category based on your current learning goals.
+
+Access Lesson Module:
+
+Navigate to the "Lessons" or "Skills" section within the chosen course.
+Choose a specific lesson you want to complete.
+
+Review Lesson Instructions:
+
+Read any instructions or context provided at the beginning of the lesson.
+Understand the objectives and tasks you need to accomplish.
+
+Complete Exercises:
+
+Engage with various exercises, including multiple-choice questions, translation tasks, and speaking challenges.
+Respond to prompts by typing, speaking, or selecting the correct answers.
+
+Earn Points and Lingots:
+
+Accumulate points for correct answers and completing exercises.
+Collect Lingots, the in-app currency, as you progress through the lesson.
+
+Progress Tracker:
+
+Monitor your progress through the lesson using the progress tracker.
+Complete sections and unlock new lessons as you successfully finish exercises.
+
+Achieve Lesson Completion:
+
+Continue through the lesson until you reach the end.
+Receive feedback on your performance, highlighting areas for improvement.
+
+Daily Goal and Streak:
+
+If applicable, maintain your daily learning streak by meeting the set goal.
+Track your achievements and consecutive days of learning.
+
+Review Mistakes (optional):
+
+If desired, review any mistakes or challenging exercises.
+Duolingo provides explanations and tips to enhance understanding.
+
+Exit Lesson and Save Progress:
+
+Exit the lesson, ensuring that your progress is saved.
+Your achievements contribute to your overall language learning journey.
+
+
+Platform: Duolingo mobile app (iOS or Android)
